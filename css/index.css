@@ -1,14 +1,14 @@
-@import "../css/buttom.css";
-@import "../css/button-icon.css";
-@import "../css/header.css";
-@import "../css/hero.css";
-@import "../css/wapper.css";
-@import "../css/menu.css";
-@import "../css/project.css";
-@import "../css/social.css";
-@import "../css/footer.css";
-@import "../css/form.css";
-@import "../css/title.css";
+@import "./css/buttom.css";
+@import "./css/button-icon.css";
+@import "./css/header.css";
+@import "./css/hero.css";
+@import "./css/wapper.css";
+@import "./css/menu.css";
+@import "./css/project.css";
+@import "./css/social.css";
+@import "./css/footer.css";
+@import "./css/form.css";
+@import "./css/title.css";
 
 :root {
     --fontBase: 'Poppins', sans-serif;
